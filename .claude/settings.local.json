@@ -3,7 +3,13 @@
     "allow": [
       "Bash(mkdir:*)",
       "Bash(chmod:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(kubectl get:*)",
+      "Bash(kubectl logs:*)",
+      "Bash(docker build:*)",
+      "Bash(kubectl rollout:*)",
+      "Bash(kubectl exec:*)",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []

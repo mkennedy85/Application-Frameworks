@@ -2,6 +2,27 @@
 
 A real-time chat application transformed from a monolithic architecture to microservices, deployed on Kubernetes (OrbStack).
 
+---
+
+## 📦 **Assignment Deliverables**
+
+**🎯 [VIEW ALL DELIVERABLES](DELIVERABLES.md)** - Complete list of assignment requirements and artifacts
+
+### Quick Links to Key Deliverables:
+
+| Deliverable | Location | Description |
+|-------------|----------|-------------|
+| 📐 **Architecture Documentation** | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Before/After architecture with diagrams, service breakdown, comparison |
+| 📸 **Screenshots** | [`screenshots/`](screenshots/) | Kubernetes deployment status & running application |
+| ☸️ **Kubernetes YAMLs** | [`k8s/`](k8s/) | All deployment and service manifests |
+| 💻 **Source Code** | Root directory | Complete microservices implementation |
+
+### Screenshots:
+- **Kubernetes Deployment:** `screenshots/kubernetes-deployment.png` - All pods and services running
+- **Live Application:** `screenshots/application-running.png` - Real-time chat with multiple users
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)

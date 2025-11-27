@@ -31,16 +31,22 @@ This comprehensive document includes:
 ### 1. Kubernetes Deployment Status
 **Location:** `screenshots/kubernetes-deployment.png`
 
-Shows:
+![Kubernetes Deployment Status](screenshots/kubernetes-deployment.png)
+
+**Shows:**
 - All pods running (2/2 replicas for each service)
 - All services with proper LoadBalancer and ClusterIP configurations
 - Healthy deployments for all microservices
 - Redis, API Gateway, Frontend, WebSocket, User, and Message services
 
+---
+
 ### 2. Running Application
 **Location:** `screenshots/application-running.png`
 
-Demonstrates:
+![Live Application with Real-time Chat](screenshots/application-running.png)
+
+**Demonstrates:**
 - Connected status (green indicator)
 - Real-time chat between multiple users (Joe and Mike)
 - Online users list showing 2 active users

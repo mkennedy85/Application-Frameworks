@@ -17,9 +17,18 @@ A real-time chat application transformed from a monolithic architecture to micro
 | ☸️ **Kubernetes YAMLs** | [`k8s/`](k8s/) | All deployment and service manifests |
 | 💻 **Source Code** | Root directory | Complete microservices implementation |
 
-### Screenshots:
-- **Kubernetes Deployment:** `screenshots/kubernetes-deployment.png` - All pods and services running
-- **Live Application:** `screenshots/application-running.png` - Real-time chat with multiple users
+### Screenshots Preview:
+
+<details>
+<summary>📸 Click to view screenshots</summary>
+
+#### Kubernetes Deployment Status
+![Kubernetes Deployment](screenshots/kubernetes-deployment.png)
+
+#### Live Application with Real-time Chat
+![Application Running](screenshots/application-running.png)
+
+</details>
 
 ---
 
